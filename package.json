@@ -1,0 +1,18 @@
+{
+  "name": "voice_server",
+  "version": "1.0.0",
+  "description": "Accept input and read them with espeak",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:mraiur/ritm.git"
+  },
+  "author": "Nikolay Ivanov <mraiur@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "querystring": "^0.2.0"
+  }
+}
